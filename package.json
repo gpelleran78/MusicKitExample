@@ -1,7 +1,7 @@
 {
   "name": "musickitexample",
   "version": "1.0.0",
-  "description": "Apple Music kit Example",
+  "description": "Basic Apple Music Kit",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/gpelleran78/MusicKitExample.git"
   },
-  "author": "Geremy L Pelleran",
+  "author": "Geremy L. Pelleran",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/gpelleran78/MusicKitExample/issues"
